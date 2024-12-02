@@ -12,10 +12,10 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-let dec = `*👾 IBBOT-XMD Whatsapp Bot*
+let dec = `*👾 AI-MD V1.9 Whatsapp Bot*
 
-*| ᴏᴡɴᴇʀ ɴᴀᴍᴇ*: ᴛᴄʀᴏɴᴇʙ ʜᴀᴄᴋx ( IBBOT-XMD )
-*| ɴᴜᴍʙᴇʀ*: 263716394979 
+*| ᴏᴡɴᴇʀ ɴᴀᴍᴇ*: ᴛᴄʀᴏɴᴇʙ ʜᴀᴄᴋx ( ᴀɪ-ʙᴏᴛ-ᴍᴅ )
+*| ɴᴜᴍʙᴇʀ*: 94704227534
 *| ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ*: https://chat.whatsapp.com/LqD6utmLF699JIW9R82O95
 *| ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ*: https://whatsapp.com/channel/0029Vafg8mVLtOj6eAvlZO0w
 
